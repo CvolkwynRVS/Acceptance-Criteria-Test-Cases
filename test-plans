@@ -1,1 +1,32 @@
+Test plan 
 
+  # Test Case - [Feature Name] ​
+
+​
+
+## **User Story Reference** ​
+
+[ Link to Monday.com User Story] ​
+
+​
+
+## **Test Steps** ​
+
+
+​
+
+## **Test Data** ​
+
+| Field   | Value   | ​
+
+| Username.  | test_user   | ​
+
+| Password     | 1234            | ​
+
+​
+
+## **Pass/Fail Criteria** ​
+
+✅ Pass if: ​
+
+❌ Fail if: 
